@@ -1,0 +1,49 @@
+h1{background-color: aqua;}
+table tr th{
+    border: 1px solid green;
+    background-color: yellow;
+    text-align: center;
+    padding: 5px; 
+    border-radius: 13px;       }
+table {
+    border:2px solid burlywood;
+    width:50%;
+    text-align: center;
+    border-style:none;
+    
+}
+table tr td{
+    border: 1px solid green;
+    border-style: outset;
+    background-color: aquamarine;
+    border-radius: 13px;
+}
+table tr td i{
+    color: saddlebrown;
+}
+.box{
+    width:100px;
+    height: 100px;
+    display: scroll;
+    background-color: rgb(149, 100, 196);
+    
+}
+h1{color: aliceblue;}
+ul{
+    list-style: none;
+}
+ul li{
+    margin:20px;
+    background-color: brown;
+    padding: 10px;
+    color:aliceblue;
+    float: right;
+    border-radius: 26px;
+}
+ul li:hover{
+    background-color: black;
+    cursor: pointer;
+}
+ul {
+    color:aquamarine;
+}
